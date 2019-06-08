@@ -24,3 +24,18 @@ function App() {
 }
 
 export default App;
+
+/*
+To-Do:
+
+Create array of card images that will appear in random order
+
+Create image grid with card components
+Create card component for image
+
+Hold state of cards to check click 
+Reset state to unchecked if clicked twice
+
+Hold state of score
+Reset to 0 if card is clicked twice
+*/
